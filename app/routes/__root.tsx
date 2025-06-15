@@ -1,4 +1,4 @@
-// src/routes/__root.tsx
+// app/routes/__root.tsx
 import type { ReactNode } from 'react'
 import { Outlet, createRootRoute, HeadContent, Scripts } from '@tanstack/react-router'
 

@@ -1,4 +1,5 @@
-.nitro
-.output
 node_modules
+
+.output
 .tanstack
+.nitro
